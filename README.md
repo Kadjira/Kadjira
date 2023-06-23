@@ -1,16 +1,16 @@
-### Hi there 👋
+### You can feel welcome here!
 
-<!--
-**Kadjira/Kadjira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Kadjira/Kadjira** 🔭⚡ 
+  Here are some things about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-    I’m currently working on new [Alura](https://www.alura.com.br) projects, you can see them on my accont
+-    I’m currently learning new things on school
+-    How to reach me: do not try 
+-    Pronouns: she/her
+-    I'm developing my skills on JavaScript
+
+
+
+
+![](https://media.tenor.com/pQGITlIh3jQAAAAM/computer-games.gif)
